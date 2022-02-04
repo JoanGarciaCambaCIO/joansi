@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){Chocolat(document.querySelectorAll(".js-gallery-image"))}));
